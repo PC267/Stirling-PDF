@@ -1,5 +1,14 @@
+# Stirling PDF 敏感文件
 *.key
 *.p12
 *.mv.db
 *.trace.db
+*.mv.db.mv.db
 credential-encryption.key
+backup/
+heap_dumps/
+cache/
+models/
+
+# 其他
+*.log
