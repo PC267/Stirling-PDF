@@ -1,0 +1,5 @@
+stirling:
+  billing:
+    account-link:
+      free-tier-units: 999999
+      enabled: true

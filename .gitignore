@@ -1,0 +1,5 @@
+*.key
+*.p12
+*.mv.db
+*.trace.db
+credential-encryption.key
